@@ -1,0 +1,13 @@
+{
+  "name": "spicy-burger",
+  "version": "1.0.0",
+  "description": "Spicy Burger - 100% Standalone Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js"
+  },
+  "keywords": ["burger", "restaurant", "spicy-burger"],
+  "author": "Spicy Burger Team",
+  "license": "ISC"
+}
